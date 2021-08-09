@@ -3,6 +3,7 @@
 # Name: "Hello World!"
 # Language: Python 3.9.6
 # Author: ZekoTheFox, https://github.com/ZekoTheFox
+# Requirements: Python Shell
 # [Lesson Content Information]
 #     In this (beginner) lesson file, you will learn to write a common of set of
 # letters to the shell, known as the Hello World program.
